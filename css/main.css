@@ -6,3 +6,8 @@ button {
 img {
   max-width: 100%;
 }
+
+audio {
+  display: block;
+  margin: 30px auto;
+}
